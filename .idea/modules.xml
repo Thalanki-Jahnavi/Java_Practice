@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/Dequeue/ArrayDequeue/ArrayDequeue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/Dequeue/ArrayDequeue/ArrayDequeue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Collections/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/ArrayList/ArrayList1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/ArrayList/ArrayList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections2.iml" filepath="$PROJECT_DIR$/Collections/Collections2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/Dequeue/Dequeue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/Dequeue/Dequeue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/MapInterface/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/Collections/MapInterface/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/Collections/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/SetInterface/HashSet1/HashSet1.iml" filepath="$PROJECT_DIR$/Collections/SetInterface/HashSet1/HashSet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Oops/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/MapInterface/LinkdHashMap/LinkdHashMap.iml" filepath="$PROJECT_DIR$/Collections/MapInterface/LinkdHashMap/LinkdHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/SetInterface/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/Collections/SetInterface/LinkedHashSet/LinkedHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/LinkedList/LinkedList1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/LinkedList/LinkedList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/ListInterface.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/ListInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/MapInterface/MapInterface.iml" filepath="$PROJECT_DIR$/Collections/MapInterface/MapInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Oops/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Queue/Queue.iml" filepath="$PROJECT_DIR$/Collections/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/QueueInterface.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/QueueInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/SetInterface/SetInterface.iml" filepath="$PROJECT_DIR$/Collections/SetInterface/SetInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/SetInterface/SortedSet/SortedSet.iml" filepath="$PROJECT_DIR$/Collections/SetInterface/SortedSet/SortedSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Stack/Stack.iml" filepath="$PROJECT_DIR$/Collections/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/Vector/Stack/Stack1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/Vector/Stack/Stack1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/MapInterface/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/Collections/MapInterface/TreeMap/TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/Collections/TreeSet/TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/SetInterface/SortedSet/TreeSet1/TreeSet1.iml" filepath="$PROJECT_DIR$/Collections/SetInterface/SortedSet/TreeSet1/TreeSet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Vector/Vector.iml" filepath="$PROJECT_DIR$/Collections/Vector/Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/Vector/Vector1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/Vector/Vector1.iml" />
+    </modules>
+  </component>
+</project>
