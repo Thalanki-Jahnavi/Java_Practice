@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/ArrayList/ArrayList1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/ArrayList/ArrayList1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections2.iml" filepath="$PROJECT_DIR$/Collections/Collections2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/Dequeue/Dequeue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/Dequeue/Dequeue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/MapInterface/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/Collections/MapInterface/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/Collections/HashSet/HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/SetInterface/HashSet1/HashSet1.iml" filepath="$PROJECT_DIR$/Collections/SetInterface/HashSet1/HashSet1.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/LinkedList/LinkedList1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/LinkedList/LinkedList1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/ListInterface.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/ListInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/MapInterface/MapInterface.iml" filepath="$PROJECT_DIR$/Collections/MapInterface/MapInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oops/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Oops/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/PriorityQueue/PriorityQueue.iml" />
