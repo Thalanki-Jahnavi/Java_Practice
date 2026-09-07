@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/Dequeue/ArrayDequeue/ArrayDequeue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/Dequeue/ArrayDequeue/ArrayDequeue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Collections/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/ListInterface/ArrayList/ArrayList1.iml" filepath="$PROJECT_DIR$/Collections/ListInterface/ArrayList/ArrayList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections2.iml" filepath="$PROJECT_DIR$/Collections/Collections2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/QueueInterface/Dequeue/Dequeue.iml" filepath="$PROJECT_DIR$/Collections/QueueInterface/Dequeue/Dequeue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
