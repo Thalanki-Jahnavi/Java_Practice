@@ -1,3 +1,5 @@
+// prints name of the exception and description of the exception
+
 public class Exception4 {
     public static void main(String[] args) {
         try{
