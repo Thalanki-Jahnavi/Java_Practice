@@ -1,4 +1,4 @@
-//prints public default exception handler
+//prints default exception handler
 
 import java.io.*;
 public class Exception2 {
